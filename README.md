@@ -3,6 +3,11 @@
 A new Flutter project.
 
 ## Getting Started
+## ScreenShot
+
+<div align = "center">
+<img src="assets/1.png" width="350" />
+<img src="assets/1.png" width="350" /></div>
 
 This project is a starting point for a Flutter application.
 
